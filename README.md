@@ -1,1 +1,1 @@
-# nih-funding-visualization
+# NIH Funding Visualization
